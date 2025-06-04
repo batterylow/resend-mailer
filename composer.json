@@ -25,7 +25,7 @@
         "symfony/webhook": "^6.3|^7.0"
     },
     "conflict": {
-        "symfony/http-foundation": "<7.1"
+        "symfony/http-foundation": "<6.3"
     },
     "autoload": {
         "psr-4": { "Symfony\\Component\\Mailer\\Bridge\\Resend\\": "" },
